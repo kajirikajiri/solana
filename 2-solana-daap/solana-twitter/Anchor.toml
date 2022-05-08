@@ -1,0 +1,17 @@
+[features]
+seeds = false
+[programs.localnet]
+solana_twitter = "J1guo8vK16TFdM8gDTQpJjkmruKQFKg3VVZBXGdmLjqf"
+
+[programs.devnet]
+solana_twitter = "J1guo8vK16TFdM8gDTQpJjkmruKQFKg3VVZBXGdmLjqf"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/kajiri/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -t 1000000 tests/**/*.ts"
