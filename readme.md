@@ -22,4 +22,9 @@ solanaのrentは２年分を払うと以降の支払いを免除
 
 他のプロダクトもおそらくdevnetに上げてテストした上でmainnetに上げるだろう。
 もしくはmainnetを二つ？でもリアルマネーが必要なのでそれはしないでしょう。
-他のプロダクトもみたいな。
+他のプロダクトもみたいな。 projectsとかworkとか色々あったよ
+https://buildspace.so/jobs
+
+やるなら以下の二つかな
+https://buildspace.so/p/ship-solana-nft-collection
+https://buildspace.so/p/build-solana-pay-store
